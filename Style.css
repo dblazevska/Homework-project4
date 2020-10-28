@@ -1,0 +1,66 @@
+.cards {
+    position: relative;
+}
+
+
+.card1 {
+    z-index: 5;
+    position: absolute;
+    background-color:palevioletred;
+    width: 500px;
+    height: 280px;
+    border-radius: 10%;
+    
+   
+
+}
+
+.card2 {
+    z-index: 4;
+    position: absolute;
+    background-color:paleturquoise;
+    width: 500px;
+    height: 280px;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    border-radius: 10%;
+
+}
+
+.card3 {
+    z-index: 3;
+    position: absolute;
+    background-color: plum;
+    width: 500px;
+    height: 280px;
+    left: 100px;
+    top: 100px;
+    border-radius: 10%;
+    
+   
+}
+
+.card4 {
+    z-index: 2;
+    position: absolute;
+    background-color:peachpuff;
+    width: 500px;
+    height: 280px;
+    left: 150px;
+    top: 150px;
+    border-radius: 10%;
+ 
+}
+
+.card5 {
+    z-index: 1;
+    position: absolute;
+    background-color:lightskyblue;
+    width: 500px;
+    height: 280px;
+    left: 200px;
+    top: 200px;
+    border-radius: 10%;
+   
+}
